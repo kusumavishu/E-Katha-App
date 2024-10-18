@@ -1,0 +1,21 @@
+npx create-expo-app --template blank
+
+npm install nativewind
+npm install --save-dev tailwindcss@3.3.2
+
+npx tailwindcss init
+
+npm install @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context
+
+npm install @react-navigation/native-stack
+
+npm install --save expo-sqlite
+
+npm i toastify-react-native
+
+npm install react-native-uuid
+
+npm i react-native-sheet
+
+npm install -g expo-cli
